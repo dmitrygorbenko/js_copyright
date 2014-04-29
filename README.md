@@ -1,0 +1,2 @@
+jaspersoft_copyright
+====================
